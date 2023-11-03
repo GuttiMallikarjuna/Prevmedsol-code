@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prevmedsol/static/css/main.3c82a447.css",
+    "main.js": "/prevmedsol/static/js/main.e60f1467.js",
+    "index.html": "/prevmedsol/index.html",
+    "main.3c82a447.css.map": "/prevmedsol/static/css/main.3c82a447.css.map",
+    "main.e60f1467.js.map": "/prevmedsol/static/js/main.e60f1467.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c82a447.css",
+    "static/js/main.e60f1467.js"
+  ]
+}
